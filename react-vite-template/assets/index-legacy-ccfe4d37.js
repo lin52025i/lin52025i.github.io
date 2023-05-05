@@ -1,1 +1,0 @@
-System.register(["./index-legacy-4018c50b.js"],(function(e,t){"use strict";var n;return{setters:[e=>{n=e.j}],execute:function(){e("default",(function(){return n.jsx(n.Fragment,{children:"detail"})}))}}}));
