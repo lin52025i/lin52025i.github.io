@@ -1,1 +1,0 @@
-System.register(["./index-legacy-6e589cc7.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.j}],execute:function(){e("default",(function(){return r.jsx(r.Fragment,{children:"record"})}))}}}));

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-d4d777ad.js"],(function(e,t){"use strict";var n;return{setters:[e=>{n=e.j}],execute:function(){e("default",(function(){return n.jsx(n.Fragment,{children:"detail"})}))}}}));
