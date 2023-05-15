@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,V as l}from"./chunks/framework.716eacd7.js";const u=JSON.parse('{"title":"Conda","description":"","frontmatter":{},"headers":[],"relativePath":"python/conda.md","lastUpdated":1684136131000}'),e={name:"python/conda.md"},p=l("",4),o=[p];function t(r,c,i,d,y,b){return n(),a("div",null,o)}const m=s(e,[["render",t]]);export{u as __pageData,m as default};
